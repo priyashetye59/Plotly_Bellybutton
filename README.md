@@ -1,2 +1,4 @@
 # Plotly_Bellybutton
 Bellybutton Biodiversity Module 12
+## Overview of the project and Purpose
+This project is designed to research about bacterial species living in belly button of human body that are useful to make synthetic beef. Hence to conduct this research, samples are taken from navels of people across the country to find out bacterial species found in belly button and other related data. Purpose of this project is to showcase those specices and how useful it is by using plotly to show visual charts to understand the reasearched data, javascript and html to add more functionality to it. 
